@@ -1,4 +1,4 @@
-# Univeristy of North Georgia 2018
+# Digital Ascension LLC 2018
 # Written By: Luke Brady
 
 # Expand the terraform.zip file and add to path.

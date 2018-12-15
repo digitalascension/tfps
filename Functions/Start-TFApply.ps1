@@ -1,4 +1,4 @@
-# Univeristy of North Georgia 2018
+# Digital Ascension LLC 2018
 # Written By: Luke Brady
 
 # Applies a Terraform configuration and creates the machine object in Active Directory.

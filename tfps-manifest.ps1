@@ -5,6 +5,6 @@ $manifest = @{
     Path              = '.\tfps.psd1'
     RootModule        = '.\tfps.psm1' 
     Author            = 'Luke Brady'
-    Company           = "University of North Georgia"
+    Company           = "Digital Ascension LLC"
 }
 New-ModuleManifest @manifest
